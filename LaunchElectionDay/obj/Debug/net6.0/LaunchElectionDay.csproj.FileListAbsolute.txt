@@ -1,0 +1,14 @@
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.exe
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.deps.json
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.runtimeconfig.json
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\bin\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfoInputs.cache
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.AssemblyInfo.cs
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.csproj.CoreCompileInputs.cache
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.dll
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\refint\LaunchElectionDay.dll
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.pdb
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\LaunchElectionDay.genruntimeconfig.cache
+C:\Users\faisa\Source\Repos\LaunchElectionDay\LaunchElectionDay\obj\Debug\net6.0\ref\LaunchElectionDay.dll
